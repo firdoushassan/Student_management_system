@@ -51,13 +51,15 @@ This Student Management System is a Java-based desktop application designed to s
 
 ## Screenshots
 
-- **Admin Login**: ![Admin Login](Screenshots/Admin_Login.png)
-- **Student Table Frame**: ![Student Table](Screenshots/View_Student_Table.png)
-- **Edit Student Frame**: ![Edit Student](Screenshots/Edit_Student.png)
-- **View Student Detail Frame**: ![Student Detail](Screenshots/Student_Detail.png)
-- **Add Student Frame**: ![Add Student](Screenshots/Add_Student.png)
-- **Admin Table Structure**: ![Admin](Screenshots/admin_table.png)
-- **Student Table Structure**: ![Student](Screenshots/student_table.png)
+- ![Admin Login](Screenshots/Admin_Login.png)
+- ![Student Table](Screenshots/View_Student_Table.png)
+- ![Edit Student](Screenshots/Edit_Student.png)
+- ![Student Detail](Screenshots/Student_Detail.png)
+- ![Add Student](Screenshots/Add_Student.png)
+  
+---------- **Table Structures**----------
+- ![Admin](Screenshots/admin_table.png)
+-  ![Student](Screenshots/student_table.png)
 
 ## Dependencies
 
