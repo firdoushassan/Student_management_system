@@ -12,7 +12,7 @@ public class StudentManagement extends JFrame implements ActionListener {
         new ViewStudents().viewStudents();
     }
 
-
+//
 //    public static void main(String[] args) {
 //        new StudentManagement();
 //    }

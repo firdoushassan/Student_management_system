@@ -17,6 +17,7 @@ public class AddStudentForm{
         addFrame.setSize(400, 520);
         addFrame.setLayout(null);
         addFrame.setLocation(420, 100);
+        addFrame.setResizable(false);
 
         JPanel panel = new JPanel() {
             protected void paintComponent(Graphics g) {

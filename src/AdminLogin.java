@@ -28,6 +28,7 @@ public class AdminLogin extends JFrame implements ActionListener {
         setSize(400, 260);
         setLayout(new BorderLayout());
         setLocation(420, 200);
+        setResizable(false);
 
         panel = new JPanel() {
             @Override

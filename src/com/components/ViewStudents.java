@@ -1,7 +1,6 @@
 package com.components;
 
 import javax.swing.*;
-import javax.swing.plaf.ScrollBarUI;
 import javax.swing.plaf.basic.BasicScrollBarUI;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
@@ -17,6 +16,7 @@ public class ViewStudents {
         viewFrame.setSize(900, 500);
         viewFrame.setLocationRelativeTo(null); // Center the window
         viewFrame.setLayout(new BorderLayout());
+        viewFrame.setResizable(false);
 
         JPanel panel = new JPanel() {
             @Override

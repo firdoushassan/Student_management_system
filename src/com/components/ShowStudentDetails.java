@@ -18,6 +18,7 @@ public class ShowStudentDetails {
         detailsFrame.setSize(400, 520);
         detailsFrame.setLayout(null);
         detailsFrame.setLocation(420, 100);
+        detailsFrame.setResizable(false);
 
         JPanel panel = new JPanel() {
             protected void paintComponent(Graphics g) {

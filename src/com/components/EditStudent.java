@@ -21,6 +21,7 @@ public class EditStudent {
         editFrame.setSize(400, 520);
         editFrame.setLayout(null);
         editFrame.setLocation(420, 100);
+        editFrame.setResizable(false);
 
 
         JPanel panel = new JPanel() {
